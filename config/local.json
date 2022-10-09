@@ -1,0 +1,14 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "root",
+        "password": "public",
+        "database": "zecrey_warrior"
+    },
+    "fps": 30,
+    "game_round_interval":15,
+    "frontend_type": "zecrey_warrior",
+    "item_frame_chance": 500,
+    "game_duration": 600
+}
